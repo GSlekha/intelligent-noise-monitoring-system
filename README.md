@@ -6,6 +6,9 @@ This project is an embedded edge-based intelligent noise monitoring prototype de
 The system explores smart traffic monitoring and urban IoT applications using lightweight embedded processing techniques.
 
 ---
+## Hardware Setup
+
+![Hardware Setup](https://github.com/GSlekha/intelligent-noise-monitoring-system/blob/main/images/when-system-is-ready.jpg?raw=true)
 
 ## Features
 - Real-time environmental audio monitoring
