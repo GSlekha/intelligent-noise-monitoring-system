@@ -27,6 +27,9 @@ The system explores smart traffic monitoring and urban IoT applications using li
 - Embedded Systems
 
 ---
+## Experimental Output
+
+![Waveform Output](https://github.com/GSlekha/intelligent-noise-monitoring-system/blob/main/results/when-system-is-misused.jpg?raw=true)
 
 ## Applications
 - Smart traffic monitoring
